@@ -61,6 +61,7 @@ export const HoverBorderGradient = forwardRef(
     }, [hovered, duration, clockwise])
 
     return (
+      // @ts-ignore
       <Tag
         ref={ref}
         onMouseEnter={() => setHovered(true)}
