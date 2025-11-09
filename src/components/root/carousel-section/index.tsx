@@ -16,7 +16,7 @@ export const CarouselSection = () => {
   useGSAP(() => {
     animateWithGsap(".carousel-title-slide-negative", {
       opacity: 1,
-      y: -40,
+      y: -15,
       delay: 0.5,
     })
   })
