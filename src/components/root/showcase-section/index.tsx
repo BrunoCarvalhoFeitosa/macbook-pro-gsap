@@ -64,7 +64,7 @@ export const ShowcaseSection = () => {
               alt="Chipset M5"
             />
           </div>
-          <div className="px-5 md:px-10 xl:px-0 xl:pr-5 xl:w-[600px]">
+          <div className="px-5 md:px-10 xl:px-0 xl:pr-5 xl:w-[940px]">
             <div className="mb-4 size-20 flex justify-center items-center bg-linear-to-r from-neutral-400 from-10% to-neutral-700 rounded-xl">
               <div className="flex justify-center items-center -translate-y-[3px]">
                 <Logo width="30" height="30" opacity="opacity-100" />
@@ -93,7 +93,7 @@ export const ShowcaseSection = () => {
           </div>
         </div>
         <div className="pt-24 w-full flex flex-col xl:flex-row items-end xl:items-center overflow-hidden">
-          <div className="px-5 md:px-10 xl:px-0 xl:pl-5 xl:w-[600px]">
+          <div className="px-5 md:px-10 xl:px-0 xl:pl-5 xl:w-[940px]">
             <div className="mb-4 size-20 flex flex-col gap-y-1 justify-center items-center bg-linear-to-r from-blue-300 from-10% to-blue-800 rounded-xl">
               <div className="flex items-center">
                 <div className="flex justify-center items-center -translate-y-[3px]">
@@ -139,7 +139,7 @@ export const ShowcaseSection = () => {
               alt="Chipset M4 Max"
             />
           </div>
-          <div className="px-5 md:px-10 xl:px-0 xl:pr-5 xl:w-[600px]">
+          <div className="px-5 md:px-10 xl:px-0 xl:pr-5 xl:w-[940px]">
             <div className="mb-4 size-20 flex flex-col gap-y-1 justify-center items-center bg-linear-to-r from-purple-400 from-10% to-purple-800 rounded-xl">
               <div className="flex items-center">
                 <div className="flex justify-center items-center -translate-y-[3px]">

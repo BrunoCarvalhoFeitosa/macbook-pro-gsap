@@ -33,7 +33,7 @@ export const ArtificialIntelligenceSection = () => {
           consegue executar tarefas pesadas de IA no aparelho sem consumir muita energia. Sempre sabendo que a segurança e a privacidade vêm de fábrica, não são opcionais.
         </p>
       </div>
-      <div className="mt-5 flex flex-col lg:flex-row gap-14 lg:gap-5">
+      <div className="mt-5 mx-auto xl:max-w-[1240px] flex flex-col lg:flex-row gap-14 lg:gap-5">
         <div className="ai-card-slide-negative flex-1 bg-[#1d1d1f] rounded-tl-4xl rounded-tr-4xl">
           <div className="p-7 md:p-12">
             <p className="text-base text-white">
