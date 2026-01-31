@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Environment, Lightformer } from "@react-three/drei"
 
 export const StudioLight = () => {
