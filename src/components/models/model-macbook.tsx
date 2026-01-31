@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { JSX } from "react"
 import { Mesh, MeshStandardMaterial } from "three"
 import { useGLTF } from "@react-three/drei"

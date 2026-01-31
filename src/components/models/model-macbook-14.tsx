@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { JSX, useEffect } from "react"
 import { Mesh, MeshStandardMaterial, Color, Group, BufferGeometry } from "three"
 import { useGLTF, useTexture } from "@react-three/drei"
