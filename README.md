@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/6eba8683-d88e-4e5b-8e1c-d7ab1ce12e13
 * [Typescript](https://www.typescriptlang.org)
 * [GSAP](https://gsap.com)
 * [Three.js](https://threejs.org)
-* [Motion](https://motion.dev)
+* [Framer Motion](https://motion.dev)
 * [TailwindCSS](https://tailwindcss.com)
 * [Vercel](https://vercel.com)
 
